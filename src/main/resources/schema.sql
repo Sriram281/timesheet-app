@@ -1,6 +1,6 @@
 -- Create database and use it
-CREATE DATABASE IF NOT EXISTS timesheet;
-USE timesheet;
+-- CREATE DATABASE IF NOT EXISTS timesheet;
+-- USE timesheet;
 
 -- Create parent table
 CREATE TABLE IF NOT EXISTS timesheet (
